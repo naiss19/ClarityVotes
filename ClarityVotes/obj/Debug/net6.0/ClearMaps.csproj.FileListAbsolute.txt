@@ -60,3 +60,4 @@
 /Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/obj/Debug/net6.0/ClearMaps.pdb
 /Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/obj/Debug/net6.0/ClearMaps.genruntimeconfig.cache
 /Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/obj/Debug/net6.0/ref/ClearMaps.dll
+/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/bin/Debug/net6.0/Templates/educenter-main/package.json

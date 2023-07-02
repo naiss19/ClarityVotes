@@ -5,16 +5,8 @@
       "PackagePath": "staticwebassets/ClearMaps.bundle.scp.css"
     },
     {
-      "Id": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
-    },
-    {
       "Id": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
-    },
-    {
-      "Id": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
     },
     {
       "Id": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/lib/bootstrap/LICENSE",

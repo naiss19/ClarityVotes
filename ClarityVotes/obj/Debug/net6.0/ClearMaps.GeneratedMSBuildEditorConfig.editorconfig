@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/Pages/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXRVcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/Pages/ComingSoon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29taW5nU29vbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

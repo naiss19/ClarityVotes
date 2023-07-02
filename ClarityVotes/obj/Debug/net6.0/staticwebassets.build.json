@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TMcy6xw052IW5+v4XwppUr0RE1ph5/UoEq9A/UJSJUM=",
+  "Hash": "9jts1xzkrTECh2KZ1sQRit/ZRWq9gvJN2+29rixQuqM=",
   "Source": "ClearMaps",
   "BasePath": "_content/ClearMaps",
   "Mode": "Default",
@@ -51,23 +51,6 @@
       "OriginalItemSpec": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/obj/Debug/net6.0/scopedcss/projectbundle/ClearMaps.bundle.scp.css"
     },
     {
-      "Identity": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/css/site.css",
-      "SourceId": "ClearMaps",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/",
-      "BasePath": "_content/ClearMaps",
-      "RelativePath": "css/site.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
-    },
-    {
       "Identity": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/favicon.ico",
       "SourceId": "ClearMaps",
       "SourceType": "Discovered",
@@ -83,23 +66,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
-    },
-    {
-      "Identity": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/js/site.js",
-      "SourceId": "ClearMaps",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/",
-      "BasePath": "_content/ClearMaps",
-      "RelativePath": "js/site.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
       "Identity": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
