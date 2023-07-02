@@ -7,4 +7,10 @@
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'ClarityVotes' " />
+  <ItemGroup>
+    <None Remove="Templates\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Templates\" />
+  </ItemGroup>
 </Project>
