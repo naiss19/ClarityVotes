@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClearMaps
 build_property.RootNamespace = ClearMaps
-build_property.ProjectDir = /Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClarityVotes/
+build_property.ProjectDir = /Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClarityVotes
+build_property.MSBuildProjectDirectory = /Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClarityVotes/Pages/Error.cshtml]
+[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClarityVotes/Pages/Index.cshtml]
+[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClarityVotes/Pages/Privacy.cshtml]
+[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClarityVotes/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClarityVotes/Pages/_ViewImports.cshtml]
+[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClarityVotes/Pages/_ViewStart.cshtml]
+[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClarityVotes/Pages/Shared/_Layout.cshtml]
+[/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-gqtd16nh6z

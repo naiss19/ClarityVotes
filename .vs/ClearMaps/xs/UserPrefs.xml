@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8243E2FF-B6E2-4D50-91C6-51822B60CAA7}|ClarityVotes">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClarityVotes/Pages/Index.cshtml">
+    <Files>
+      <File FileName="ClarityVotes/Pages/Error.cshtml.cs" />
+      <File FileName="ClarityVotes/Pages/Index.cshtml.cs" />
+      <File FileName="ClarityVotes/Pages/Index.cshtml" Line="50" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClearMaps" expanded="True">
+            <Node name="ClearMaps" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Error.cshtml" expanded="True" />
+                <Node name="Index.cshtml" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ClearMaps PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

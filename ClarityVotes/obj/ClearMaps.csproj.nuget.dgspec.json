@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClarityVotes/ClearMaps.csproj": {}
+    "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/ClearMaps.csproj": {}
   },
   "projects": {
-    "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClarityVotes/ClearMaps.csproj": {
+    "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/ClearMaps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClarityVotes/ClearMaps.csproj",
+        "projectUniqueName": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/ClearMaps.csproj",
         "projectName": "ClearMaps",
-        "projectPath": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClarityVotes/ClearMaps.csproj",
+        "projectPath": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/ClearMaps.csproj",
         "packagesPath": "/Users/BrandonHall_1/.nuget/packages/",
-        "outputPath": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClarityVotes/obj/",
+        "outputPath": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/BrandonHall_1/.nuget/NuGet/NuGet.Config"
