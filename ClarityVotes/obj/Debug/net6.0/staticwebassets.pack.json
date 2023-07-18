@@ -237,6 +237,42 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
+      "Id": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/lib/tomtom-international/web-sdk-maps/README.md",
+      "PackagePath": "staticwebassets/lib/tomtom-international/web-sdk-maps/README.md"
+    },
+    {
+      "Id": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/lib/tomtom-international/web-sdk-maps/dist/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/tomtom-international/web-sdk-maps/dist/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/lib/tomtom-international/web-sdk-maps/dist/index.d.ts",
+      "PackagePath": "staticwebassets/lib/tomtom-international/web-sdk-maps/dist/index.d.ts"
+    },
+    {
+      "Id": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/lib/tomtom-international/web-sdk-maps/dist/maps-web.min.js",
+      "PackagePath": "staticwebassets/lib/tomtom-international/web-sdk-maps/dist/maps-web.min.js"
+    },
+    {
+      "Id": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/lib/tomtom-international/web-sdk-maps/dist/maps-web.min.js.map",
+      "PackagePath": "staticwebassets/lib/tomtom-international/web-sdk-maps/dist/maps-web.min.js.map"
+    },
+    {
+      "Id": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/lib/tomtom-international/web-sdk-maps/dist/maps.css",
+      "PackagePath": "staticwebassets/lib/tomtom-international/web-sdk-maps/dist/maps.css"
+    },
+    {
+      "Id": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/lib/tomtom-international/web-sdk-maps/dist/maps.min.js",
+      "PackagePath": "staticwebassets/lib/tomtom-international/web-sdk-maps/dist/maps.min.js"
+    },
+    {
+      "Id": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/lib/tomtom-international/web-sdk-maps/dist/maps.min.js.map",
+      "PackagePath": "staticwebassets/lib/tomtom-international/web-sdk-maps/dist/maps.min.js.map"
+    },
+    {
+      "Id": "/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/wwwroot/lib/tomtom-international/web-sdk-maps/package.json",
+      "PackagePath": "staticwebassets/lib/tomtom-international/web-sdk-maps/package.json"
+    },
+    {
       "Id": "obj/Debug/net6.0/staticwebassets/msbuild.ClearMaps.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

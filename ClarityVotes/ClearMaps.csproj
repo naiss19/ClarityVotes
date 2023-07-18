@@ -13,9 +13,10 @@
     <None Remove="source\" />
     <None Remove="assets\" />
     <None Remove="css\site.css" />
-    <None Remove="css\" />
-    <None Remove="js\site.js" />
-    <None Remove="js\" />
+    <None Remove="css\ComingSoonStyles.cshtml.css" />
+    <None Remove="css\TemplateStyles.cshtml.css" />
+    <None Remove="css\site.cshtml.css" />
+    <None Remove="assets\Map\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Templates\" />
@@ -25,8 +26,7 @@
     <Folder Include="theme\" />
     <Folder Include="source\" />
     <Folder Include="assets\" />
-    <Folder Include="css\" />
-    <Folder Include="js\" />
+    <Folder Include="assets\Map\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\js\script.js" />
@@ -96,6 +96,7 @@
     <Content Remove="wwwroot\images\teachers\teacher-2.jpg" />
     <Content Remove="wwwroot\images\teachers\teacher-3.jpg" />
     <Content Remove="wwwroot\images\" />
+    <Content Remove="css\site.cshtml.css" />
   </ItemGroup>
   <ItemGroup>
     <None Include="wwwroot\fonts\Futura-Bold.woff" />
@@ -161,13 +162,7 @@
     <None Include="wwwroot\images\teachers\teacher-3.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="css\site.cshtml.css">
-      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="js\site.js">
-      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="CSM.SodaDotNet" Version="0.10.1" />
   </ItemGroup>
 </Project>

@@ -1,5 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System;
+using System.Collections.Generic;
+using System.Net.Http;
+using System.Threading.Tasks;
+using Newtonsoft.Json;
+
 
 namespace ClarityVotes.Pages;
 
@@ -17,9 +23,7 @@ public class IndexModel : PageModel
 
     }
 
-    public void showMap()
-    {
 
-    }
+    
 }
 

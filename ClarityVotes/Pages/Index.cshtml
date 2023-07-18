@@ -2,6 +2,7 @@
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
+    ViewData["MyTomTomKey"] = "";
 }
 <head>
     <script src="https://api.tomtom.com/maps-sdk-for-web/cdn/6.x/6.0.0/maps/maps-web.min.js"></script>
@@ -12,38 +13,20 @@
         <h1>ClearMaps Testing Site</h1>
     </div>
     <div id="map" style="margin-left:auto;margin-right:auto; width: 800px; height: 600px;"></div>
+    <input="myTomtomKey" type="hidden" value="@ViewData["MyTomTomKey"]" />
+    @section Scripts {
+        <script src="https://api.tomtom.com/maps-sdk-for-web/cdn/6.x/6.0.0/maps/maps-web.min.js"></script>
+        <script>
+            var myTomtomKey = document.getElementById('myTomtomKey').value;
+            var map = tt.map({
+                key: myTomtomKey,
+                container: 'map',
+                style: 'tomtom://vector/1/basic-main',
+                center: [-86.7816, 36.1627], // Davidson County, TN coordinates
+                zoom: 10 // Set the initial zoom level
+            });</script>
+    }
 
-    <script>// Initialize the map
-        fetch('https://data.nashville.gov/resource/i3fu-jbj3.json')
-            .then(response => response.json())
-            .then(data => {
-                // Iterate through each entry in the JSON array
-                data.forEach(entry => {
-                    // Extract the coordinates from the MultiPolygon of each entry
-                    var multipolygonCoordinates = entry.boundary.coordinates;
-
-                    var map = tt.map({
-                        key: 'o2cGGVGMV71PKdfZalwG8X9gB6qttIp0',
-                        container: 'map',
-                        style: 'tomtom://vector/1/basic-main',
-                        center: [-86.777802, 36.166067], // Set the initial center coordinates
-                        zoom: 10 // Set the initial zoom level
-                    });
-
-                    // Iterate through the polygons in the MultiPolygon
-                    multipolygonCoordinates.forEach(polygonCoordinates => {
-                        // Create a polygon for each set of coordinates
-                        var polygon = new tt.Polygon(polygonCoordinates, {
-                            color: 'black',
-                            opacity: 1,
-                            draggable: false
-                        });
-
-                        polygon.addTo(map);
-                    });
-                });
-            })
-            .catch(error => console.log(error));</script>
 
 </body>
 

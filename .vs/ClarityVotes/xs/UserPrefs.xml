@@ -1,30 +1,40 @@
 ﻿<Properties StartupConfiguration="{8243E2FF-B6E2-4D50-91C6-51822B60CAA7}|ClarityVotes">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ClarityVotes/Pages/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClarityVotes/assets/Map/MapController.cs">
     <Files>
-      <File FileName="ClarityVotes/Pages/Shared/_Layout.cshtml" Line="9" Column="53" />
-      <File FileName="ClarityVotes/Pages/AboutUs.cshtml" Line="3" Column="1" />
-      <File FileName="ClarityVotes/Pages/ComingSoon.cshtml" Line="26" Column="37" />
-      <File FileName="ClarityVotes/Templates/startbootstrap-coming-soon-gh-pages/index.html" Line="1" Column="1" />
-      <File FileName="ClarityVotes/Program.cs" Line="25" Column="1" />
-      <File FileName="ClarityVotes/Pages/Shared/_Layout.cshtml.css" Line="1" Column="1" />
-      <File FileName="ClarityVotes/Pages/Shared/_ValidationScriptsPartial.cshtml" Line="4" Column="1" />
+      <File FileName="ClarityVotes/Program.cs" Line="53" Column="2" />
+      <File FileName="ClarityVotes/assets/Map/MapController.cs" Line="97" Column="20" />
+      <File FileName="ClarityVotes/wwwroot/lib/tomtom-international/web-sdk-maps/README.md" Line="1" Column="1" NotebookId="1" />
+      <File FileName="ClarityVotes/Pages/Index.cshtml" Line="5" Column="5" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ClarityVotes" expanded="True" />
+          <Node name="ClarityVotes" expanded="True">
+            <Node name="ClearMaps" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="assets" expanded="True">
+                <Node name="Map" expanded="True">
+                  <Node name="MapController.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RealityVotesWebsite PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ClearMaps PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/Program.cs" relfile="ClarityVotes/Program.cs" line="5" column="1" />
+      <Breakpoint file="/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/assets/Map/MapController.cs" relfile="ClarityVotes/assets/Map/MapController.cs" line="43" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
 </Properties>

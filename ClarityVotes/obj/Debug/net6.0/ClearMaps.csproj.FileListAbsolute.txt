@@ -61,3 +61,7 @@
 /Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/obj/Debug/net6.0/ClearMaps.genruntimeconfig.cache
 /Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/obj/Debug/net6.0/ref/ClearMaps.dll
 /Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/bin/Debug/net6.0/Templates/educenter-main/package.json
+/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/obj/Debug/net6.0/ClearMaps.csproj.CopyComplete
+/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/bin/Debug/net6.0/SODA.dll
+/Users/BrandonHall_1/Downloads/Development/Clarity Votes/ClarityVotes/ClearMaps/ClarityVotes/bin/Debug/net6.0/libman.json
